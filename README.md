@@ -1,0 +1,1 @@
+Augmented randomized complete block design (RCBD) is a design that can be used when there are limited facilities or a lack of seed for testing many treatments. In this design, augmented blocks are built and the same number of controls are allocated in each block along with the treatments.
